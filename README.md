@@ -57,7 +57,7 @@ npm start
 
 ## المطور
 
-تم تطوير هذا المشروع بواسطة [Ahmed Samir](https://github.com/ahmedsamir-dev)
+تم تطوير هذا المشروع بواسطة [Ahmed Samir](https://github.com/Ahmed-iCode)
 
 ## الترخيص
 
